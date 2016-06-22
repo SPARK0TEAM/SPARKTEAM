@@ -1,4 +1,4 @@
-# [TeleSeed](https://telegram.me/TeleSeed)
+# [sparkteam](https://telegram.me/sparks_team)
 
 [![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -258,8 +258,8 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
   sudo_users = {
-    110626080,
-    103649648,
+    137348382,
+    7513052,
     111020322,
     0,
     YourID
